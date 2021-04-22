@@ -5,11 +5,6 @@
 # Date: April 21, 2021
 #
 
-import tkinter as tk
-from tkinter import ttk
-from tkinter import messagebox
-from tkinter import *
-
 # Dictionary representing the morse code chart
 MORSE_CODE_DICT = { 'A':'.-', 'B':'-...',
                     'C':'-.-.', 'D':'-..', 'E':'.',
