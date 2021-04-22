@@ -1,5 +1,5 @@
 # Morse-Code-Translator
-A Python version of a Morse Code translator.
+A Python version of a Morse Code translator.      
 Author: Dakota Kallas   
 Date: 4/21/21     
 
